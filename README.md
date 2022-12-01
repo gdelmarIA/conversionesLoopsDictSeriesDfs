@@ -1,5 +1,6 @@
 # conversionesLoopsDictSeriesDfs
 Busco y descargo datos que necesiten ser tratados para formar un dataset.
+https://www.worldbank.org/en/home
 El fichero excel descargado, se pasa primero a un dataset que contiene una sola columa y 266 filas
 
 El nombre de la columna es (es una sola columna):
